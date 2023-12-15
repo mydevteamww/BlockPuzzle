@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Block : Puzzle",
+  "description": "Block :Puzzle",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Block : Puzzle",
+  "name": "Block :Puzzle",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Block : Puzzle",
+  "short_name": "Block :Puzzle",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Block : Puzzle0",
+      "name": "Block :Puzzle",
       "url": "",
       "description": ""
     }
